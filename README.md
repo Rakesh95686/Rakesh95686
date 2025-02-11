@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Aashish!</h1>
+<h1 align="center">👋 Hey there, I'm Rakesh!</h1>
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400" />
@@ -35,3 +35,12 @@
 
 ### 🔗 Let's Connect
 I’m always excited to connect with like-minded developers and tech enthusiasts!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakesh-lohani-0a2a35317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/rakeshlohani/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Competitive%20Coding-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+</p>
